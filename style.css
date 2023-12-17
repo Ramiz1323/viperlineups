@@ -91,17 +91,6 @@ position: absolute;
     color: #333;
 }
 
-.animated-bg {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: linear-gradient(-45deg, #3498db, #2ecc71, #e74c3c, #f39c12);
-    background-size: 400% 400%;
-    animation: gradientAnimation 15s ease infinite;
-    text-align: center;
-    color: white;
-}
-
 #video-background {
     position: fixed;
     top: 0;
